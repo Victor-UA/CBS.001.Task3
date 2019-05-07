@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Task3
 {
-    public class Student: Citizen
+    public class Student : Citizen
     {
+        public Student(Passport passport) : base(passport)
+        {
+        }
     }
 }

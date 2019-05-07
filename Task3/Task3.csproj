@@ -44,7 +44,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Citizen.cs" />
+    <Compile Include="CitizenCollection.cs" />
     <Compile Include="MyCollection.cs" />
+    <Compile Include="Passport.cs" />
     <Compile Include="Pensioner.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
